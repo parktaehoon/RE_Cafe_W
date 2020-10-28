@@ -1,0 +1,16 @@
+/* 본문 전체를 포함하는 컨테이너 */
+.body-container{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+/* 각 행의 그룹 컨테이너 */
+.layout-full{
+  width: 100%;
+}
+
+/* width 값을 1,440px로 설정하여 화면 가운데 배치를 위한 컨테이너 */
+.layout-width{
+  width: 1440px;
+  margin: 0 auto;
+}
