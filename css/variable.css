@@ -1,3 +1,12 @@
 :root{
-  --primary-text-color : #fffcf9;
+  --main-palebrown : #a37356;
+  --main-doujuan : #5f4c4c;
+  --main-gold : #7d6f5d;
+  --main-deepoak : #412311;
+  --main-teracotta: #e27762;
+  --grayscale-lightgray : #cfccc7;
+  --grayscale-white : #fffcf9;
+  --grayscale-white-15 : rgba(255, 252, 249, 0.15);
+  --grayscale-black : #282725;
+  --text-normal : 16px;
 }
